@@ -1,11 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50"/>
-
-<h1>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50"
+    <h1>
 Всех приветствую!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-Меня зовут Владимир, я Java разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+Меня зовут Владимир, я Java разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
+
+
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirJG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <h1>📞 Мои контакты  </h1>
