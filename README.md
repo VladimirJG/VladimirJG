@@ -1,13 +1,6 @@
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50"
-   
-Всех приветствую!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-Меня зовут Владимир, я Java backend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirJG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<h3>📞 Мои контакты  </h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/vladimir-danilov-568613237?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BucYfV0AYQlSI%2FK5MH2nX%2FQ%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,13 +9,17 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
+ 
 
 ###  Аналитика :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirJG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div></div>
+
+### 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VladimirJG&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
  <img src="https://komarev.com/ghpvc/?username=VladimirJG&style=flat-square&color=blue" alt=""/>
- <h3>Что умею:</h3>
+ <h3>Проекты:</h3>
 
  <a href="https://github.com/VladimirJG/DigitalLibraryBoot">DigitalLibrary</a>
    Web приложение Цифровая библиотека с возможностью учета пользователей и выданной литературы.
